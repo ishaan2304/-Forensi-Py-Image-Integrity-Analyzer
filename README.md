@@ -46,5 +46,5 @@ pip install Pillow numpy matplotlib
   
 ## Clone the repository
 ```bash
-git clone
+git clone https://github.com/ishaan2304/-Forensi-Py-Image-Integrity-Analyzer.git
 ```
