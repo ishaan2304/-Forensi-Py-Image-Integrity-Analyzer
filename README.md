@@ -42,3 +42,9 @@ You can install them using `pip`:
 
 ```bash
 pip install Pillow numpy matplotlib
+```
+
+##clone the repository
+```bash
+git clone
+```
