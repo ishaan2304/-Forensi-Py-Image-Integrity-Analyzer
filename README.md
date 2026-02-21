@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Forensi-Py: Image Integrity Analyzer** is a mini-project developed for a Computer Science and Digital Forensics (CSDF) course, focusing on the critical task of verifying the authenticity and detecting l.,manipulation in digital images.
+**Forensi-Py: Image Integrity Analyzer** is a mini-project developed for a Computer Science and Digital Forensics (CSDF) course, focusing on the critical task of verifying the authenticity and detecting l,manipulation in digital images.
 
 In an era where digital content can be easily altered, establishing the integrity of an image is paramount for forensic investigations, journalism, legal proceedings, and various other fields. This tool provides a foundational, Python-based framework to analyze image files through several key forensic techniques.
 
